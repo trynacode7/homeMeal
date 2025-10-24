@@ -1,0 +1,107 @@
+2025-07-30 08:58:44,007 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 08:59:39,492 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 08:59:39,494 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 09:00:32,505 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 09:00:32,506 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 09:00:34,632 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 09:00:34,633 - homeMeal - INFO - info:49 - User Action: Failed login attempt - Phone: 1234567890
+2025-07-30 09:05:51,330 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:06:40,561 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:09:37,707 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:09:51,672 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-07-30 09:09:51,672 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-07-30 09:09:51,674 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-07-30 09:09:51,788 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:09:51,795 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:01,600 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:10:08,062 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-07-30 09:10:08,063 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 10, Qty: 1
+2025-07-30 09:10:08,070 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:13,295 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-07-30 09:10:13,295 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 8, Qty: 1
+2025-07-30 09:10:13,303 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:17,234 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-07-30 09:10:17,234 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 10, Qty: 1
+2025-07-30 09:10:17,241 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:21,392 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:10:24,704 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:10:27,068 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:32,181 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:10:36,491 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:10:38,408 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:07,099 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:11,434 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:11,437 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on items - SUCCESS
+2025-07-30 09:11:11,438 - homeMeal - INFO - info:49 - [User:1] User Action: Stock updated - Item ID: 1, Change: 3
+2025-07-30 09:11:11,440 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on items - SUCCESS
+2025-07-30 09:11:11,440 - homeMeal - INFO - info:49 - [User:1] User Action: Stock updated - Item ID: 6, Change: 2
+2025-07-30 09:11:11,442 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on items - SUCCESS
+2025-07-30 09:11:11,442 - homeMeal - INFO - info:49 - [User:1] User Action: Stock updated - Item ID: 8, Change: 1
+2025-07-30 09:11:11,444 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on items - SUCCESS
+2025-07-30 09:11:11,446 - homeMeal - INFO - info:49 - [User:1] User Action: Stock updated - Item ID: 9, Change: 1
+2025-07-30 09:11:11,449 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on orders - SUCCESS
+2025-07-30 09:11:11,450 - homeMeal - INFO - info:49 - [User:1] User Action: Order cancelled - Order ID: 3
+2025-07-30 09:11:11,456 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:15,037 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:11:18,947 - homeMeal - INFO - info:49 - [User:1] Database DELETE on cart - SUCCESS
+2025-07-30 09:11:18,947 - homeMeal - INFO - info:49 - [User:1] User Action: Item removed from cart - Cart item ID: 1
+2025-07-30 09:11:18,954 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:11:18,978 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:21,276 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on cart - SUCCESS
+2025-07-30 09:11:21,277 - homeMeal - INFO - info:49 - [User:1] User Action: Cart quantity updated - Cart item ID: 2, Qty: 1
+2025-07-30 09:11:21,285 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:11:24,588 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on cart - SUCCESS
+2025-07-30 09:11:24,588 - homeMeal - INFO - info:49 - [User:1] User Action: Cart quantity updated - Cart item ID: 2, Qty: 2
+2025-07-30 09:11:24,596 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:11:28,285 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:11:30,983 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:33,372 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:11:36,189 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:11:39,959 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:11:47,878 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:12:57,464 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:13:10,297 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-07-30 09:13:10,298 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-07-30 09:13:10,299 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-07-30 09:13:10,408 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:13:10,415 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:13:17,350 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:13:22,605 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:13:30,341 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:13:34,539 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:16:42,750 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:16:42,759 - homeMeal - ERROR - error:63 - Critical application error - Exception: unexpected indent (components.py, line 188)
+2025-07-30 09:17:16,910 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:17:16,915 - homeMeal - ERROR - error:63 - Critical application error - Exception: unexpected indent (components.py, line 188)
+2025-07-30 09:17:25,998 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:17:26,003 - homeMeal - ERROR - error:63 - Critical application error - Exception: unexpected indent (components.py, line 188)
+2025-07-30 09:17:47,715 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:17:47,721 - homeMeal - ERROR - error:63 - Critical application error - Exception: unexpected indent (components.py, line 188)
+2025-07-30 09:19:23,260 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:19:50,972 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-07-30 09:19:50,973 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-07-30 09:19:50,973 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-07-30 09:19:51,111 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:19:51,119 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:19:55,344 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:19:57,932 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:20:00,996 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:20:02,182 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:20:03,660 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:20:57,735 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:21:10,839 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-07-30 09:21:10,839 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-07-30 09:21:10,839 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-07-30 09:21:11,076 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:21:11,091 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:21:14,562 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:21:25,028 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:24:41,516 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-07-30 09:24:50,854 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-07-30 09:24:50,854 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-07-30 09:24:50,855 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-07-30 09:24:50,972 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:24:50,980 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-07-30 09:24:55,113 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-07-30 09:24:55,780 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-07-30 09:24:56,658 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS

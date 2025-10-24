@@ -1,0 +1,29 @@
+2025-10-24 10:01:48,242 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-10-24 10:03:34,710 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-10-24 10:03:34,710 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-10-24 10:03:34,711 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-10-24 10:03:35,118 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:03:35,163 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:03:52,666 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:10,658 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:11,582 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-10-24 10:04:15,133 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-10-24 10:04:19,103 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-10-24 10:04:24,651 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-10-24 10:04:24,651 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 14, Qty: 1
+2025-10-24 10:04:24,668 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:27,042 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-10-24 10:04:27,042 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 14, Qty: 1
+2025-10-24 10:04:27,055 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:31,172 - homeMeal - INFO - info:49 - [User:1] Database INSERT/UPDATE on cart - SUCCESS
+2025-10-24 10:04:31,172 - homeMeal - INFO - info:49 - [User:1] User Action: Item added to cart - Item ID: 5, Qty: 1
+2025-10-24 10:04:31,188 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:33,039 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-10-24 10:04:36,680 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-10-24 10:04:47,910 - homeMeal - INFO - info:49 - [User:1] Database UPDATE on cart - SUCCESS
+2025-10-24 10:04:47,911 - homeMeal - INFO - info:49 - [User:1] User Action: Cart quantity updated - Cart item ID: 3, Qty: 1
+2025-10-24 10:04:47,923 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-10-24 10:04:50,370 - homeMeal - INFO - info:49 - [User:1] Database DELETE on cart - SUCCESS
+2025-10-24 10:04:50,370 - homeMeal - INFO - info:49 - [User:1] User Action: Item removed from cart - Cart item ID: 3
+2025-10-24 10:04:50,382 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-10-24 10:04:50,502 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS

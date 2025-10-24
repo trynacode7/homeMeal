@@ -1,0 +1,21 @@
+2025-08-30 11:07:06,134 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-08-30 11:07:22,549 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-08-30 11:07:22,549 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-08-30 11:07:22,549 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-08-30 11:07:22,777 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:07:22,802 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:10:47,944 - homeMeal - INFO - info:49 - Application started - Version 2.0.0
+2025-08-30 11:11:10,480 - homeMeal - INFO - info:49 - [User:1] User Action: User logged in
+2025-08-30 11:11:10,480 - homeMeal - INFO - info:49 - [User:1] Database SELECT on users - SUCCESS
+2025-08-30 11:11:10,481 - homeMeal - INFO - info:49 - User Action: User logged in successfully
+2025-08-30 11:11:10,639 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:11:10,651 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:11:51,041 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-08-30 11:11:58,576 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-08-30 11:12:14,981 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-08-30 11:12:15,970 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:12:33,269 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:12:37,635 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
+2025-08-30 11:12:41,223 - homeMeal - INFO - info:49 - Database SELECT on items - SUCCESS
+2025-08-30 11:12:43,549 - homeMeal - INFO - info:49 - [User:1] Database SELECT on cart - SUCCESS
+2025-08-30 11:12:45,961 - homeMeal - INFO - info:49 - [User:1] Database SELECT on orders - SUCCESS
